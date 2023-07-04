@@ -1,0 +1,4 @@
+#Git y GitHub Curso
+
+> me gusta estar siempre actualizado sobre las maneras de trabajar en equipo. Por eso tome este curso de git y github en Platzi.com.
+> #####nicolás.
