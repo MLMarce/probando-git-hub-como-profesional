@@ -8,7 +8,7 @@
     display: flex;
     flex-direction: column;
     margin: 0 auto;
-    padding: 1em;
+    padding: 1.5em;
     width: 80vw;
     height: 80vh;
 }
@@ -24,7 +24,7 @@
 }
 
 .individuales:nth-child(1) {
-    background: #a1f;
+    background: #a4f;
 }
 .individuales:nth-child(2) {
     background: #aaf;
